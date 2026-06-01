@@ -1,0 +1,497 @@
+Order ID,Date,Region,Category,Product,Quantity,Unit Price,Revenue,Month,Year,Quarter
+ORD-10374,24-06-2024,West,Networking,VPN Device,5,138.65,693.25,Jun,2024,2
+ORD-10433,21-12-2024,Central,Office Supplies,Whiteboard,19,89.42,"1,698.98",Dec,2024,4
+ORD-10520,10-03-2024,East,Electronics,Smart Watch,8,244.57,"1,956.56",Mar,2024,1
+ORD-10003,06-10-2024,West,Office Supplies,Desk Organizer,19,28.76,546.44,Oct,2024,4
+ORD-10218,20-10-2024,Central,Office Supplies,Standing Desk,11,591.92,"6,511.12",Oct,2024,4
+ORD-10352,15-06-2024,East,Networking,VPN Device,1,148.45,148.45,Jun,2024,2
+ORD-10498,05-03-2024,West,Electronics,Wireless Earbuds,3,86.56,259.68,Mar,2024,1
+ORD-10379,23-09-2024,Central,Networking,Ethernet Cable,14,19.50,273.00,Sep,2024,3
+ORD-10364,07-11-2024,East,Software,Project Mgmt Tool,13,160.58,"2,087.54",Nov,2024,4
+ORD-10310,08-06-2024,East,Electronics,Webcam HD,15,75.14,"1,127.10",Jun,2024,2
+ORD-10183,24-10-2024,South,Office Supplies,Whiteboard,20,89.06,"1,781.20",Oct,2024,4
+ORD-10283,13-12-2024,North,Office Supplies,Desk Organizer,2,31.87,63.74,Dec,2024,4
+ORD-10243,30-06-2024,East,Accessories,Phone Case,12,20.78,249.36,Jun,2024,2
+ORD-10237,26-10-2024,Central,Accessories,Cable Kit,5,24.49,122.45,Oct,2024,4
+ORD-10487,17-04-2024,South,Accessories,Phone Case,4,18.23,72.92,Apr,2024,2
+ORD-10025,18-07-2024,East,Accessories,Cable Kit,14,26.36,369.04,Jul,2024,3
+ORD-10091,21-05-2024,West,Software,Cloud Backup,9,106.24,956.16,May,2024,2
+ORD-10236,28-08-2024,East,Office Supplies,Monitor Stand,11,69.83,768.13,Aug,2024,3
+ORD-10404,12-09-2024,North,Networking,WiFi Router,18,195.16,"3,512.88",Sep,2024,3
+ORD-10340,02-09-2024,Central,Office Supplies,Standing Desk,15,527.62,"7,914.30",Sep,2024,3
+ORD-10315,08-02-2024,Central,Networking,WiFi Router,14,187.84,"2,629.76",Feb,2024,1
+ORD-10323,24-08-2024,North,Office Supplies,Whiteboard,14,95.52,"1,337.28",Aug,2024,3
+ORD-10002,29-10-2024,West,Electronics,Laptop Pro,3,"1,178.37","3,535.11",Oct,2024,4
+ORD-10333,27-10-2024,South,Electronics,Webcam HD,12,86.43,"1,037.16",Oct,2024,4
+ORD-10174,07-05-2024,North,Electronics,Mechanical Keyboard,6,132.21,793.26,May,2024,2
+ORD-10464,21-05-2024,West,Software,Project Mgmt Tool,13,154.65,"2,010.45",May,2024,2
+ORD-10061,21-04-2024,West,Software,Antivirus Pro,6,61.41,368.46,Apr,2024,2
+ORD-10099,15-03-2024,South,Networking,VPN Device,19,146.27,"2,779.13",Mar,2024,1
+ORD-10252,16-02-2024,North,Software,Project Mgmt Tool,12,158.57,"1,902.84",Feb,2024,1
+ORD-10204,26-06-2024,West,Software,Project Mgmt Tool,7,146.07,"1,022.49",Jun,2024,2
+ORD-10054,18-03-2024,South,Accessories,Screen Protector,7,14.39,100.73,Mar,2024,1
+ORD-10368,04-12-2024,East,Office Supplies,Ergonomic Chair,16,438.75,"7,020.00",Dec,2024,4
+ORD-10330,23-12-2024,East,Networking,WiFi Router,12,195.49,"2,345.88",Dec,2024,4
+ORD-10308,02-08-2024,South,Software,Design Suite,14,216.39,"3,029.46",Aug,2024,3
+ORD-10401,23-04-2024,North,Software,Antivirus Pro,10,60.90,609.00,Apr,2024,2
+ORD-10161,12-09-2024,Central,Networking,WiFi Router,17,185.49,"3,153.33",Sep,2024,3
+ORD-10362,15-01-2024,West,Electronics,Wireless Earbuds,19,94.96,"1,804.24",Jan,2024,1
+ORD-10014,14-05-2024,Central,Office Supplies,Whiteboard,4,96.17,384.68,May,2024,2
+ORD-10355,14-12-2024,West,Electronics,USB-C Hub,11,47.41,521.51,Dec,2024,4
+ORD-10208,20-01-2024,South,Accessories,Screen Protector,2,16.49,32.98,Jan,2024,1
+ORD-10263,03-07-2024,Central,Networking,WiFi Router,4,190.70,762.80,Jul,2024,3
+ORD-10184,24-11-2024,Central,Software,Design Suite,19,201.49,"3,828.31",Nov,2024,4
+ORD-10266,04-09-2024,North,Software,Project Mgmt Tool,3,144.14,432.42,Sep,2024,3
+ORD-10339,25-01-2024,West,Accessories,Laptop Bag,6,63.88,383.28,Jan,2024,1
+ORD-10030,05-01-2024,West,Networking,Power Strip Pro,4,47.09,188.36,Jan,2024,1
+ORD-10441,03-07-2024,West,Accessories,Laptop Bag,2,56.40,112.80,Jul,2024,3
+ORD-10302,23-12-2024,West,Office Supplies,Ergonomic Chair,8,384.21,"3,073.68",Dec,2024,4
+ORD-10072,21-05-2024,Central,Networking,Power Strip Pro,10,53.76,537.60,May,2024,2
+ORD-10497,14-11-2024,West,Office Supplies,Monitor Stand,1,67.12,67.12,Nov,2024,4
+ORD-10001,23-11-2024,North,Electronics,Mechanical Keyboard,9,127.29,"1,145.61",Nov,2024,4
+ORD-10444,04-01-2024,Central,Office Supplies,Desk Organizer,6,28.55,171.30,Jan,2024,1
+ORD-10341,07-02-2024,East,Office Supplies,Desk Organizer,6,30.73,184.38,Feb,2024,1
+ORD-10220,12-01-2024,West,Software,CRM License,7,309.99,"2,169.93",Jan,2024,1
+ORD-10499,09-07-2024,West,Electronics,Smart Watch,3,268.06,804.18,Jul,2024,3
+ORD-10232,27-11-2024,North,Accessories,Cable Kit,3,25.76,77.28,Nov,2024,4
+ORD-10338,28-12-2024,East,Accessories,Phone Case,9,18.65,167.85,Dec,2024,4
+ORD-10517,02-04-2024,Central,Accessories,Mouse Pad XL,11,23.07,253.77,Apr,2024,2
+ORD-10443,21-09-2024,East,Accessories,Screen Protector,17,15.16,257.72,Sep,2024,3
+ORD-10245,10-08-2024,East,Networking,WiFi Router,17,194.73,"3,310.41",Aug,2024,3
+ORD-10463,02-11-2024,Central,Networking,Network Switch,20,242.88,"4,857.60",Nov,2024,4
+ORD-10509,22-11-2024,Central,Accessories,Screen Protector,1,15.64,15.64,Nov,2024,4
+ORD-10027,28-09-2024,South,Electronics,Webcam HD,3,85.14,255.42,Sep,2024,3
+ORD-10306,21-03-2024,East,Electronics,Webcam HD,4,77.76,311.04,Mar,2024,1
+ORD-10095,21-02-2024,Central,Accessories,Phone Case,5,19.22,96.10,Feb,2024,1
+ORD-10115,24-11-2024,Central,Electronics,Laptop Pro,11,"1,182.86","13,011.46",Nov,2024,4
+ORD-10328,28-09-2024,East,Networking,Network Switch,6,240.29,"1,441.74",Sep,2024,3
+ORD-10479,17-03-2024,West,Electronics,Wireless Earbuds,14,91.22,"1,277.08",Mar,2024,1
+ORD-10467,19-09-2024,East,Networking,Power Strip Pro,9,51.65,464.85,Sep,2024,3
+ORD-10516,12-10-2024,West,Electronics,Mechanical Keyboard,19,129.48,"2,460.12",Oct,2024,4
+ORD-10074,08-09-2024,North,Electronics,Webcam HD,10,80.61,806.10,Sep,2024,3
+ORD-10209,28-05-2024,North,Electronics,Smart Watch,19,259.06,"4,922.14",May,2024,2
+ORD-10275,26-11-2024,South,Networking,Network Switch,16,247.34,"3,957.44",Nov,2024,4
+ORD-10085,23-03-2024,East,Accessories,Laptop Bag,10,61.91,619.10,Mar,2024,1
+ORD-10066,04-09-2024,West,Accessories,Mouse Pad XL,9,21.96,197.64,Sep,2024,3
+ORD-10500,28-08-2024,South,Office Supplies,Monitor Stand,13,74.12,963.56,Aug,2024,3
+ORD-10256,03-07-2024,East,Office Supplies,Desk Organizer,20,30.23,604.60,Jul,2024,3
+ORD-10136,21-10-2024,West,Networking,VPN Device,14,138.09,"1,933.26",Oct,2024,4
+ORD-10428,01-06-2024,East,Electronics,Webcam HD,18,76.73,"1,381.14",Jun,2024,2
+ORD-10130,16-01-2024,North,Networking,Network Switch,13,252.23,"3,278.99",Jan,2024,1
+ORD-10141,17-11-2024,East,Office Supplies,Desk Organizer,3,29.59,88.77,Nov,2024,4
+ORD-10300,30-12-2024,Central,Accessories,Laptop Bag,13,56.78,738.14,Dec,2024,4
+ORD-10402,28-07-2024,North,Software,Cloud Backup,7,96.84,677.88,Jul,2024,3
+ORD-10372,26-10-2024,East,Accessories,Phone Case,16,18.20,291.20,Oct,2024,4
+ORD-10151,26-09-2024,North,Software,Cloud Backup,5,102.92,514.60,Sep,2024,3
+ORD-10033,17-04-2024,East,Office Supplies,Monitor Stand,17,70.61,"1,200.37",Apr,2024,2
+ORD-10480,06-09-2024,East,Software,Cloud Backup,19,94.76,"1,800.44",Sep,2024,3
+ORD-10094,14-07-2024,West,Office Supplies,Desk Organizer,2,28.10,56.20,Jul,2024,3
+ORD-10415,12-07-2024,North,Accessories,Cable Kit,18,24.74,445.32,Jul,2024,3
+ORD-10392,08-11-2024,West,Software,Cloud Backup,1,106.86,106.86,Nov,2024,4
+ORD-10350,17-08-2024,South,Office Supplies,Standing Desk,7,531.94,"3,723.58",Aug,2024,3
+ORD-10059,22-05-2024,West,Software,CRM License,16,284.92,"4,558.72",May,2024,2
+ORD-10454,22-12-2024,Central,Electronics,USB-C Hub,5,44.47,222.35,Dec,2024,4
+ORD-10234,18-04-2024,South,Electronics,Mechanical Keyboard,16,140.24,"2,243.84",Apr,2024,2
+ORD-10238,16-12-2024,East,Software,Project Mgmt Tool,16,151.85,"2,429.60",Dec,2024,4
+ORD-10485,29-05-2024,East,Networking,VPN Device,9,150.56,"1,355.04",May,2024,2
+ORD-10163,10-10-2024,North,Accessories,Laptop Bag,2,61.68,123.36,Oct,2024,4
+ORD-10303,02-12-2024,South,Electronics,Laptop Pro,5,"1,265.21","6,326.05",Dec,2024,4
+ORD-10278,27-03-2024,West,Networking,VPN Device,18,142.70,"2,568.60",Mar,2024,1
+ORD-10367,30-12-2024,East,Office Supplies,Standing Desk,17,584.59,"9,938.03",Dec,2024,4
+ORD-10090,29-08-2024,South,Accessories,Mouse Pad XL,5,22.17,110.85,Aug,2024,3
+ORD-10452,03-12-2024,South,Networking,Power Strip Pro,1,53.14,53.14,Dec,2024,4
+ORD-10291,14-12-2024,West,Electronics,Laptop Pro,11,"1,286.01","14,146.11",Dec,2024,4
+ORD-10024,08-01-2024,North,Office Supplies,Standing Desk,14,561.54,"7,861.56",Jan,2024,1
+ORD-10065,04-07-2024,West,Office Supplies,Desk Organizer,6,30.74,184.44,Jul,2024,3
+ORD-10093,06-04-2024,South,Networking,VPN Device,8,149.90,"1,199.20",Apr,2024,2
+ORD-10396,25-03-2024,North,Accessories,Cable Kit,8,24.99,199.92,Mar,2024,1
+ORD-10294,18-03-2024,West,Networking,VPN Device,7,133.86,937.02,Mar,2024,1
+ORD-10083,11-12-2024,Central,Networking,WiFi Router,9,185.52,"1,669.68",Dec,2024,4
+ORD-10107,25-03-2024,East,Accessories,Cable Kit,11,26.77,294.47,Mar,2024,1
+ORD-10262,02-11-2024,West,Networking,VPN Device,18,142.61,"2,566.98",Nov,2024,4
+ORD-10019,28-10-2024,Central,Office Supplies,Whiteboard,8,84.65,677.20,Oct,2024,4
+ORD-10405,31-03-2024,Central,Office Supplies,Standing Desk,4,553.45,"2,213.80",Mar,2024,1
+ORD-10492,06-07-2024,West,Software,Design Suite,10,189.37,"1,893.70",Jul,2024,3
+ORD-10189,27-08-2024,West,Software,Project Mgmt Tool,1,143.56,143.56,Aug,2024,3
+ORD-10197,30-08-2024,East,Networking,Power Strip Pro,8,51.85,414.80,Aug,2024,3
+ORD-10304,12-05-2024,South,Software,Design Suite,9,210.93,"1,898.37",May,2024,2
+ORD-10426,14-09-2024,North,Software,Antivirus Pro,20,56.82,"1,136.40",Sep,2024,3
+ORD-10447,29-01-2024,South,Software,Design Suite,17,217.65,"3,700.05",Jan,2024,1
+ORD-10213,13-05-2024,West,Office Supplies,Desk Organizer,9,31.70,285.30,May,2024,2
+ORD-10388,21-01-2024,East,Software,Antivirus Pro,14,62.59,876.26,Jan,2024,1
+ORD-10385,24-09-2024,South,Software,Project Mgmt Tool,10,145.13,"1,451.30",Sep,2024,3
+ORD-10201,12-12-2024,East,Networking,VPN Device,7,152.01,"1,064.07",Dec,2024,4
+ORD-10408,10-12-2024,South,Office Supplies,Whiteboard,18,93.82,"1,688.76",Dec,2024,4
+ORD-10228,04-12-2024,Central,Office Supplies,Desk Organizer,10,28.75,287.50,Dec,2024,4
+ORD-10429,13-02-2024,East,Office Supplies,Monitor Stand,7,69.82,488.74,Feb,2024,1
+ORD-10363,29-11-2024,West,Networking,WiFi Router,1,182.78,182.78,Nov,2024,4
+ORD-10206,29-08-2024,North,Office Supplies,Ergonomic Chair,18,437.58,"7,876.44",Aug,2024,3
+ORD-10370,02-06-2024,South,Networking,Network Switch,10,240.20,"2,402.00",Jun,2024,2
+ORD-10349,02-06-2024,North,Accessories,Phone Case,17,19.68,334.56,Jun,2024,2
+ORD-10186,23-06-2024,Central,Office Supplies,Monitor Stand,11,73.15,804.65,Jun,2024,2
+ORD-10140,17-11-2024,West,Accessories,Mouse Pad XL,19,22.38,425.22,Nov,2024,4
+ORD-10297,02-05-2024,West,Accessories,Phone Case,8,19.47,155.76,May,2024,2
+ORD-10407,19-09-2024,East,Networking,Ethernet Cable,18,18.81,338.58,Sep,2024,3
+ORD-10063,30-10-2024,South,Electronics,Mechanical Keyboard,10,139.00,"1,390.00",Oct,2024,4
+ORD-10152,25-03-2024,West,Electronics,USB-C Hub,12,47.32,567.84,Mar,2024,1
+ORD-10264,26-11-2024,West,Software,Project Mgmt Tool,4,141.79,567.16,Nov,2024,4
+ORD-10271,02-02-2024,Central,Electronics,Webcam HD,6,79.38,476.28,Feb,2024,1
+ORD-10301,18-09-2024,South,Office Supplies,Whiteboard,11,89.77,987.47,Sep,2024,3
+ORD-10134,11-03-2024,East,Software,Antivirus Pro,4,56.12,224.48,Mar,2024,1
+ORD-10284,30-12-2024,East,Office Supplies,Desk Organizer,16,28.17,450.72,Dec,2024,4
+ORD-10138,22-06-2024,South,Software,Design Suite,3,204.29,612.87,Jun,2024,2
+ORD-10147,12-10-2024,West,Software,Antivirus Pro,20,63.78,"1,275.60",Oct,2024,4
+ORD-10489,14-08-2024,South,Office Supplies,Whiteboard,6,84.93,509.58,Aug,2024,3
+ORD-10285,17-02-2024,West,Networking,Ethernet Cable,12,18.33,219.96,Feb,2024,1
+ORD-10457,16-10-2024,East,Networking,Ethernet Cable,13,19.14,248.82,Oct,2024,4
+ORD-10011,25-10-2024,West,Software,Design Suite,5,204.26,"1,021.30",Oct,2024,4
+ORD-10104,06-11-2024,West,Software,Design Suite,20,212.99,"4,259.80",Nov,2024,4
+ORD-10110,08-11-2024,South,Electronics,Mechanical Keyboard,15,140.15,"2,102.25",Nov,2024,4
+ORD-10064,26-06-2024,Central,Accessories,Cable Kit,3,25.65,76.95,Jun,2024,2
+ORD-10118,14-06-2024,North,Office Supplies,Monitor Stand,2,66.86,133.72,Jun,2024,2
+ORD-10084,22-05-2024,South,Networking,VPN Device,16,152.25,"2,436.00",May,2024,2
+ORD-10210,25-09-2024,West,Office Supplies,Whiteboard,15,88.19,"1,322.85",Sep,2024,3
+ORD-10274,13-03-2024,Central,Accessories,Laptop Bag,20,57.27,"1,145.40",Mar,2024,1
+ORD-10113,19-12-2024,East,Office Supplies,Desk Organizer,15,31.68,475.20,Dec,2024,4
+ORD-10327,18-05-2024,South,Electronics,Smart Watch,20,244.73,"4,894.60",May,2024,2
+ORD-10017,05-03-2024,South,Accessories,Mouse Pad XL,6,21.77,130.62,Mar,2024,1
+ORD-10255,12-03-2024,East,Software,Antivirus Pro,16,57.34,917.44,Mar,2024,1
+ORD-10332,18-06-2024,Central,Office Supplies,Standing Desk,11,580.59,"6,386.49",Jun,2024,2
+ORD-10346,05-10-2024,West,Office Supplies,Monitor Stand,13,69.37,901.81,Oct,2024,4
+ORD-10216,10-07-2024,West,Networking,VPN Device,18,148.77,"2,677.86",Jul,2024,3
+ORD-10424,08-05-2024,Central,Electronics,Webcam HD,8,85.85,686.80,May,2024,2
+ORD-10004,22-05-2024,South,Office Supplies,Monitor Stand,4,66.51,266.04,May,2024,2
+ORD-10337,23-02-2024,West,Office Supplies,Monitor Stand,3,68.01,204.03,Feb,2024,1
+ORD-10009,29-01-2024,South,Electronics,Smart Watch,13,246.55,"3,205.15",Jan,2024,1
+ORD-10488,12-02-2024,North,Software,Cloud Backup,5,95.30,476.50,Feb,2024,1
+ORD-10050,24-02-2024,West,Office Supplies,Standing Desk,17,559.81,"9,516.77",Feb,2024,1
+ORD-10042,22-10-2024,South,Software,CRM License,14,284.13,"3,977.82",Oct,2024,4
+ORD-10246,18-05-2024,North,Electronics,Mechanical Keyboard,9,139.95,"1,259.55",May,2024,2
+ORD-10122,14-07-2024,Central,Networking,Ethernet Cable,15,18.46,276.90,Jul,2024,3
+ORD-10126,04-08-2024,North,Software,Cloud Backup,10,99.27,992.70,Aug,2024,3
+ORD-10100,15-12-2024,South,Accessories,Mouse Pad XL,5,21.67,108.35,Dec,2024,4
+ORD-10398,30-11-2024,North,Electronics,USB-C Hub,14,42.99,601.86,Nov,2024,4
+ORD-10298,11-06-2024,South,Accessories,Mouse Pad XL,14,22.11,309.54,Jun,2024,2
+ORD-10495,14-05-2024,North,Accessories,Screen Protector,17,15.97,271.49,May,2024,2
+ORD-10279,04-10-2024,North,Accessories,Mouse Pad XL,7,24.17,169.19,Oct,2024,4
+ORD-10496,29-09-2024,East,Accessories,Screen Protector,3,14.66,43.98,Sep,2024,3
+ORD-10129,07-06-2024,East,Software,CRM License,6,323.06,"1,938.36",Jun,2024,2
+ORD-10366,07-11-2024,East,Software,CRM License,16,286.91,"4,590.56",Nov,2024,4
+ORD-10123,09-10-2024,South,Accessories,Laptop Bag,8,59.71,477.68,Oct,2024,4
+ORD-10418,05-10-2024,Central,Accessories,Phone Case,12,18.68,224.16,Oct,2024,4
+ORD-10501,14-08-2024,South,Electronics,Wireless Earbuds,15,94.37,"1,415.55",Aug,2024,3
+ORD-10092,07-09-2024,South,Accessories,Mouse Pad XL,16,22.04,352.64,Sep,2024,3
+ORD-10458,11-10-2024,West,Software,Antivirus Pro,19,59.10,"1,122.90",Oct,2024,4
+ORD-10453,23-01-2024,Central,Accessories,Screen Protector,16,16.03,256.48,Jan,2024,1
+ORD-10357,14-08-2024,East,Software,Project Mgmt Tool,20,155.98,"3,119.60",Aug,2024,3
+ORD-10194,11-03-2024,East,Accessories,Mouse Pad XL,15,21.39,320.85,Mar,2024,1
+ORD-10153,17-08-2024,South,Networking,Network Switch,10,272.62,"2,726.20",Aug,2024,3
+ORD-10060,29-11-2024,North,Electronics,Wireless Earbuds,7,95.75,670.25,Nov,2024,4
+ORD-10207,29-11-2024,South,Software,Antivirus Pro,10,61.77,617.70,Nov,2024,4
+ORD-10321,23-04-2024,South,Office Supplies,Desk Organizer,12,30.54,366.48,Apr,2024,2
+ORD-10156,23-03-2024,East,Accessories,Mouse Pad XL,5,23.64,118.20,Mar,2024,1
+ORD-10069,03-05-2024,West,Accessories,Laptop Bag,1,56.87,56.87,May,2024,2
+ORD-10158,20-02-2024,East,Office Supplies,Standing Desk,2,545.17,"1,090.34",Feb,2024,1
+ORD-10289,08-03-2024,East,Office Supplies,Monitor Stand,3,72.32,216.96,Mar,2024,1
+ORD-10260,06-10-2024,South,Networking,WiFi Router,15,195.37,"2,930.55",Oct,2024,4
+ORD-10007,20-08-2024,East,Office Supplies,Monitor Stand,12,67.72,812.64,Aug,2024,3
+ORD-10225,27-02-2024,North,Accessories,Mouse Pad XL,1,21.69,21.69,Feb,2024,1
+ORD-10034,21-05-2024,North,Electronics,Smart Watch,5,260.35,"1,301.75",May,2024,2
+ORD-10331,09-09-2024,Central,Software,Design Suite,16,190.18,"3,042.88",Sep,2024,3
+ORD-10483,10-12-2024,Central,Accessories,Laptop Bag,3,59.42,178.26,Dec,2024,4
+ORD-10200,16-04-2024,Central,Software,Project Mgmt Tool,17,149.97,"2,549.49",Apr,2024,2
+ORD-10518,08-10-2024,East,Software,Project Mgmt Tool,14,160.01,"2,240.14",Oct,2024,4
+ORD-10267,15-04-2024,Central,Accessories,Cable Kit,16,24.12,385.92,Apr,2024,2
+ORD-10190,25-01-2024,North,Software,Project Mgmt Tool,20,161.27,"3,225.40",Jan,2024,1
+ORD-10462,30-01-2024,South,Accessories,Laptop Bag,1,57.84,57.84,Jan,2024,1
+ORD-10211,05-04-2024,North,Software,Antivirus Pro,19,62.02,"1,178.38",Apr,2024,2
+ORD-10191,08-08-2024,South,Software,Antivirus Pro,13,59.29,770.77,Aug,2024,3
+ORD-10427,30-08-2024,South,Networking,Network Switch,5,264.44,"1,322.20",Aug,2024,3
+ORD-10326,18-11-2024,Central,Electronics,USB-C Hub,12,45.99,551.88,Nov,2024,4
+ORD-10378,08-06-2024,South,Electronics,USB-C Hub,17,46.72,794.24,Jun,2024,2
+ORD-10106,31-05-2024,East,Accessories,Screen Protector,7,14.55,101.85,May,2024,2
+ORD-10224,25-08-2024,Central,Accessories,Mouse Pad XL,13,23.62,307.06,Aug,2024,3
+ORD-10265,21-10-2024,South,Accessories,Cable Kit,13,25.49,331.37,Oct,2024,4
+ORD-10348,10-10-2024,North,Accessories,Mouse Pad XL,14,24.09,337.26,Oct,2024,4
+ORD-10187,14-10-2024,North,Software,Design Suite,15,192.71,"2,890.65",Oct,2024,4
+ORD-10459,27-04-2024,West,Office Supplies,Ergonomic Chair,7,409.47,"2,866.29",Apr,2024,2
+ORD-10215,08-06-2024,North,Software,Antivirus Pro,20,58.00,"1,160.00",Jun,2024,2
+ORD-10343,28-07-2024,Central,Networking,Ethernet Cable,10,17.90,179.00,Jul,2024,3
+ORD-10504,05-01-2024,North,Networking,VPN Device,20,135.28,"2,705.60",Jan,2024,1
+ORD-10322,08-02-2024,North,Electronics,Wireless Earbuds,15,95.35,"1,430.25",Feb,2024,1
+ORD-10311,25-08-2024,East,Networking,VPN Device,7,147.32,"1,031.24",Aug,2024,3
+ORD-10387,18-09-2024,North,Electronics,Smart Watch,8,253.61,"2,028.88",Sep,2024,3
+ORD-10143,10-11-2024,Central,Networking,VPN Device,15,144.15,"2,162.25",Nov,2024,4
+ORD-10018,19-12-2024,South,Software,Project Mgmt Tool,12,151.34,"1,816.08",Dec,2024,4
+ORD-10082,03-10-2024,West,Accessories,Phone Case,20,18.16,363.20,Oct,2024,4
+ORD-10474,22-10-2024,South,Electronics,Webcam HD,14,80.72,"1,130.08",Oct,2024,4
+ORD-10145,31-12-2024,North,Networking,Network Switch,2,245.80,491.60,Dec,2024,4
+ORD-10254,29-05-2024,West,Accessories,Phone Case,18,20.63,371.34,May,2024,2
+ORD-10038,08-12-2024,South,Software,Design Suite,4,200.47,801.88,Dec,2024,4
+ORD-10307,29-08-2024,East,Accessories,Screen Protector,6,16.35,98.10,Aug,2024,3
+ORD-10240,11-03-2024,South,Electronics,Mechanical Keyboard,5,122.73,613.65,Mar,2024,1
+ORD-10111,04-06-2024,West,Electronics,Laptop Pro,8,"1,298.62","10,388.96",Jun,2024,2
+ORD-10314,28-04-2024,Central,Accessories,Cable Kit,15,27.40,411.00,Apr,2024,2
+ORD-10233,21-01-2024,North,Office Supplies,Whiteboard,18,87.45,"1,574.10",Jan,2024,1
+ORD-10412,22-12-2024,East,Electronics,USB-C Hub,13,45.56,592.28,Dec,2024,4
+ORD-10380,06-04-2024,South,Accessories,Phone Case,8,18.69,149.52,Apr,2024,2
+ORD-10282,29-09-2024,East,Networking,Power Strip Pro,6,48.93,293.58,Sep,2024,3
+ORD-10373,09-04-2024,Central,Electronics,Mechanical Keyboard,13,132.80,"1,726.40",Apr,2024,2
+ORD-10356,21-06-2024,East,Software,Antivirus Pro,16,63.65,"1,018.40",Jun,2024,2
+ORD-10253,19-09-2024,West,Electronics,Laptop Pro,3,"1,202.70","3,608.10",Sep,2024,3
+ORD-10432,01-12-2024,South,Electronics,Smart Watch,20,239.16,"4,783.20",Dec,2024,4
+ORD-10052,07-10-2024,West,Office Supplies,Desk Organizer,15,28.68,430.20,Oct,2024,4
+ORD-10410,12-04-2024,East,Office Supplies,Monitor Stand,9,67.07,603.63,Apr,2024,2
+ORD-10347,17-05-2024,Central,Electronics,Wireless Earbuds,4,85.69,342.76,May,2024,2
+ORD-10425,18-07-2024,North,Networking,WiFi Router,20,171.75,"3,435.00",Jul,2024,3
+ORD-10036,06-06-2024,East,Electronics,Smart Watch,7,262.03,"1,834.21",Jun,2024,2
+ORD-10442,20-05-2024,East,Networking,Power Strip Pro,19,47.83,908.77,May,2024,2
+ORD-10053,16-11-2024,South,Software,Project Mgmt Tool,3,157.50,472.50,Nov,2024,4
+ORD-10421,10-07-2024,Central,Networking,VPN Device,16,132.96,"2,127.36",Jul,2024,3
+ORD-10230,01-08-2024,West,Office Supplies,Monitor Stand,13,67.45,876.85,Aug,2024,3
+ORD-10169,08-08-2024,Central,Office Supplies,Whiteboard,10,88.84,888.40,Aug,2024,3
+ORD-10515,21-02-2024,South,Networking,VPN Device,7,136.08,952.56,Feb,2024,1
+ORD-10219,18-09-2024,West,Electronics,USB-C Hub,5,46.21,231.05,Sep,2024,3
+ORD-10124,09-06-2024,East,Software,Design Suite,16,191.05,"3,056.80",Jun,2024,2
+ORD-10484,21-06-2024,West,Networking,Power Strip Pro,13,52.79,686.27,Jun,2024,2
+ORD-10460,27-01-2024,South,Accessories,Phone Case,3,20.40,61.20,Jan,2024,1
+ORD-10468,22-08-2024,West,Networking,WiFi Router,16,173.17,"2,770.72",Aug,2024,3
+ORD-10045,12-12-2024,South,Networking,Power Strip Pro,10,49.53,495.30,Dec,2024,4
+ORD-10071,28-04-2024,North,Office Supplies,Monitor Stand,4,73.24,292.96,Apr,2024,2
+ORD-10286,17-02-2024,West,Software,CRM License,18,301.89,"5,434.02",Feb,2024,1
+ORD-10175,16-08-2024,South,Networking,Ethernet Cable,16,17.64,282.24,Aug,2024,3
+ORD-10078,16-04-2024,South,Software,CRM License,6,294.81,"1,768.86",Apr,2024,2
+ORD-10116,16-04-2024,Central,Office Supplies,Standing Desk,11,585.32,"6,438.52",Apr,2024,2
+ORD-10144,19-10-2024,South,Software,Cloud Backup,16,101.50,"1,624.00",Oct,2024,4
+ORD-10016,06-06-2024,South,Electronics,Wireless Earbuds,19,97.19,"1,846.61",Jun,2024,2
+ORD-10313,23-02-2024,South,Networking,Network Switch,14,254.93,"3,569.02",Feb,2024,1
+ORD-10507,12-08-2024,Central,Software,Cloud Backup,16,96.87,"1,549.92",Aug,2024,3
+ORD-10032,05-01-2024,Central,Software,CRM License,5,295.91,"1,479.55",Jan,2024,1
+ORD-10514,30-01-2024,Central,Software,Cloud Backup,2,104.95,209.90,Jan,2024,1
+ORD-10476,15-06-2024,East,Networking,Ethernet Cable,6,18.58,111.48,Jun,2024,2
+ORD-10121,15-08-2024,North,Electronics,Smart Watch,20,242.09,"4,841.80",Aug,2024,3
+ORD-10155,08-05-2024,North,Accessories,Cable Kit,18,27.25,490.50,May,2024,2
+ORD-10182,10-02-2024,East,Office Supplies,Whiteboard,9,86.22,775.98,Feb,2024,1
+ORD-10181,22-09-2024,South,Software,Design Suite,6,198.68,"1,192.08",Sep,2024,3
+ORD-10178,10-10-2024,Central,Software,Project Mgmt Tool,18,144.45,"2,600.10",Oct,2024,4
+ORD-10511,19-02-2024,Central,Electronics,Laptop Pro,5,"1,171.18","5,855.90",Feb,2024,1
+ORD-10081,25-03-2024,East,Networking,Power Strip Pro,10,49.78,497.80,Mar,2024,1
+ORD-10490,03-10-2024,East,Networking,VPN Device,5,152.26,761.30,Oct,2024,4
+ORD-10251,06-05-2024,North,Electronics,Smart Watch,5,250.74,"1,253.70",May,2024,2
+ORD-10171,30-01-2024,North,Accessories,Cable Kit,17,26.75,454.75,Jan,2024,1
+ORD-10436,16-11-2024,North,Electronics,Laptop Pro,17,"1,252.65","21,295.05",Nov,2024,4
+ORD-10513,16-04-2024,West,Electronics,USB-C Hub,2,45.19,90.38,Apr,2024,2
+ORD-10390,28-02-2024,West,Accessories,Laptop Bag,9,63.45,571.05,Feb,2024,1
+ORD-10021,30-08-2024,South,Accessories,Laptop Bag,7,56.88,398.16,Aug,2024,3
+ORD-10342,10-11-2024,West,Electronics,USB-C Hub,6,46.85,281.10,Nov,2024,4
+ORD-10394,22-10-2024,Central,Office Supplies,Monitor Stand,17,70.96,"1,206.32",Oct,2024,4
+ORD-10235,13-06-2024,East,Accessories,Laptop Bag,18,61.79,"1,112.22",Jun,2024,2
+ORD-10409,19-10-2024,West,Networking,Ethernet Cable,14,19.28,269.92,Oct,2024,4
+ORD-10473,13-11-2024,East,Accessories,Mouse Pad XL,9,22.52,202.68,Nov,2024,4
+ORD-10096,22-06-2024,Central,Accessories,Phone Case,11,20.48,225.28,Jun,2024,2
+ORD-10506,26-11-2024,East,Accessories,Screen Protector,1,15.80,15.80,Nov,2024,4
+ORD-10273,10-12-2024,East,Networking,Power Strip Pro,3,51.49,154.47,Dec,2024,4
+ORD-10249,23-06-2024,Central,Networking,Power Strip Pro,13,53.67,697.71,Jun,2024,2
+ORD-10162,19-10-2024,West,Office Supplies,Ergonomic Chair,17,437.38,"7,435.46",Oct,2024,4
+ORD-10051,25-08-2024,Central,Networking,Power Strip Pro,11,53.53,588.83,Aug,2024,3
+ORD-10261,28-07-2024,West,Office Supplies,Monitor Stand,8,68.17,545.36,Jul,2024,3
+ORD-10195,20-07-2024,Central,Software,Cloud Backup,11,101.58,"1,117.38",Jul,2024,3
+ORD-10119,04-07-2024,Central,Networking,WiFi Router,15,183.58,"2,753.70",Jul,2024,3
+ORD-10150,05-09-2024,South,Office Supplies,Standing Desk,5,527.90,"2,639.50",Sep,2024,3
+ORD-10481,18-11-2024,North,Accessories,Cable Kit,9,25.10,225.90,Nov,2024,4
+ORD-10056,02-08-2024,Central,Networking,Power Strip Pro,8,50.14,401.12,Aug,2024,3
+ORD-10185,03-06-2024,West,Office Supplies,Desk Organizer,10,29.52,295.20,Jun,2024,2
+ORD-10494,10-07-2024,South,Accessories,Mouse Pad XL,14,22.20,310.80,Jul,2024,3
+ORD-10199,19-12-2024,South,Accessories,Mouse Pad XL,20,23.94,478.80,Dec,2024,4
+ORD-10035,05-01-2024,North,Electronics,Mechanical Keyboard,5,133.11,665.55,Jan,2024,1
+ORD-10005,23-08-2024,Central,Electronics,USB-C Hub,3,46.48,139.44,Aug,2024,3
+ORD-10353,16-03-2024,Central,Networking,Power Strip Pro,4,53.35,213.40,Mar,2024,1
+ORD-10139,26-11-2024,South,Office Supplies,Ergonomic Chair,5,394.37,"1,971.85",Nov,2024,4
+ORD-10317,24-02-2024,South,Accessories,Laptop Bag,11,59.65,656.15,Feb,2024,1
+ORD-10359,18-10-2024,North,Office Supplies,Standing Desk,7,590.48,"4,133.36",Oct,2024,4
+ORD-10146,09-07-2024,East,Accessories,Laptop Bag,11,62.06,682.66,Jul,2024,3
+ORD-10031,05-05-2024,East,Software,Design Suite,15,213.94,"3,209.10",May,2024,2
+ORD-10088,23-12-2024,West,Electronics,Laptop Pro,20,"1,282.81","25,656.20",Dec,2024,4
+ORD-10131,17-10-2024,Central,Electronics,Laptop Pro,5,"1,167.36","5,836.80",Oct,2024,4
+ORD-10361,31-03-2024,West,Networking,Power Strip Pro,12,49.08,588.96,Mar,2024,1
+ORD-10510,02-10-2024,West,Office Supplies,Whiteboard,16,94.77,"1,516.32",Oct,2024,4
+ORD-10193,20-07-2024,East,Software,Cloud Backup,12,105.26,"1,263.12",Jul,2024,3
+ORD-10010,01-12-2024,West,Accessories,Laptop Bag,5,58.39,291.95,Dec,2024,4
+ORD-10073,28-12-2024,Central,Office Supplies,Monitor Stand,2,75.63,151.26,Dec,2024,4
+ORD-10319,16-02-2024,South,Software,Project Mgmt Tool,17,142.64,"2,424.88",Feb,2024,1
+ORD-10477,12-09-2024,West,Office Supplies,Desk Organizer,12,29.14,349.68,Sep,2024,3
+ORD-10133,30-10-2024,West,Networking,Ethernet Cable,2,17.70,35.40,Oct,2024,4
+ORD-10268,29-12-2024,North,Electronics,Smart Watch,4,261.84,"1,047.36",Dec,2024,4
+ORD-10280,17-01-2024,West,Software,Antivirus Pro,3,59.94,179.82,Jan,2024,1
+ORD-10105,03-12-2024,South,Electronics,Mechanical Keyboard,2,128.53,257.06,Dec,2024,4
+ORD-10109,10-12-2024,East,Networking,VPN Device,12,134.31,"1,611.72",Dec,2024,4
+ORD-10276,05-01-2024,West,Office Supplies,Standing Desk,13,600.92,"7,811.96",Jan,2024,1
+ORD-10170,06-08-2024,South,Accessories,Cable Kit,15,23.91,358.65,Aug,2024,3
+ORD-10012,14-12-2024,West,Networking,WiFi Router,13,180.30,"2,343.90",Dec,2024,4
+ORD-10242,26-05-2024,North,Networking,VPN Device,6,134.28,805.68,May,2024,2
+ORD-10231,14-03-2024,West,Electronics,Webcam HD,14,86.52,"1,211.28",Mar,2024,1
+ORD-10369,28-12-2024,Central,Office Supplies,Monitor Stand,8,72.65,581.20,Dec,2024,4
+ORD-10057,26-07-2024,South,Accessories,Screen Protector,20,15.45,309.00,Jul,2024,3
+ORD-10176,14-02-2024,East,Software,CRM License,18,308.37,"5,550.66",Feb,2024,1
+ORD-10008,28-03-2024,Central,Office Supplies,Standing Desk,15,552.80,"8,292.00",Mar,2024,1
+ORD-10148,01-12-2024,West,Office Supplies,Whiteboard,3,88.68,266.04,Dec,2024,4
+ORD-10422,26-03-2024,Central,Networking,WiFi Router,3,175.71,527.13,Mar,2024,1
+ORD-10318,15-05-2024,North,Electronics,Wireless Earbuds,10,95.58,955.80,May,2024,2
+ORD-10389,05-12-2024,South,Software,Antivirus Pro,15,64.50,967.50,Dec,2024,4
+ORD-10450,27-04-2024,West,Accessories,Screen Protector,4,14.29,57.16,Apr,2024,2
+ORD-10381,04-03-2024,East,Electronics,USB-C Hub,9,47.96,431.64,Mar,2024,1
+ORD-10411,02-07-2024,West,Electronics,Webcam HD,18,85.30,"1,535.40",Jul,2024,3
+ORD-10080,16-11-2024,Central,Office Supplies,Desk Organizer,4,29.92,119.68,Nov,2024,4
+ORD-10192,07-02-2024,West,Networking,VPN Device,18,137.88,"2,481.84",Feb,2024,1
+ORD-10384,23-02-2024,Central,Networking,WiFi Router,10,173.11,"1,731.10",Feb,2024,1
+ORD-10103,24-12-2024,East,Electronics,Mechanical Keyboard,13,127.86,"1,662.18",Dec,2024,4
+ORD-10023,03-04-2024,East,Accessories,Screen Protector,3,15.25,45.75,Apr,2024,2
+ORD-10226,25-01-2024,South,Electronics,USB-C Hub,15,44.33,664.95,Jan,2024,1
+ORD-10075,01-09-2024,North,Electronics,USB-C Hub,16,43.25,692.00,Sep,2024,3
+ORD-10320,19-08-2024,Central,Networking,Network Switch,4,253.81,"1,015.24",Aug,2024,3
+ORD-10227,28-05-2024,South,Networking,Ethernet Cable,19,18.71,355.49,May,2024,2
+ORD-10180,25-06-2024,South,Networking,Power Strip Pro,6,52.19,313.14,Jun,2024,2
+ORD-10087,22-09-2024,East,Networking,VPN Device,15,147.90,"2,218.50",Sep,2024,3
+ORD-10449,14-03-2024,Central,Office Supplies,Whiteboard,17,88.08,"1,497.36",Mar,2024,1
+ORD-10013,06-01-2024,North,Networking,Ethernet Cable,11,17.40,191.40,Jan,2024,1
+ORD-10336,01-01-2024,Central,Accessories,Mouse Pad XL,2,21.50,43.00,Jan,2024,1
+ORD-10431,08-10-2024,North,Software,CRM License,9,288.45,"2,596.05",Oct,2024,4
+ORD-10177,22-11-2024,South,Software,Cloud Backup,8,95.85,766.80,Nov,2024,4
+ORD-10165,16-12-2024,West,Accessories,Screen Protector,5,14.39,71.95,Dec,2024,4
+ORD-10098,20-02-2024,North,Accessories,Screen Protector,10,16.28,162.80,Feb,2024,1
+ORD-10469,27-04-2024,East,Accessories,Cable Kit,17,25.76,437.92,Apr,2024,2
+ORD-10188,11-11-2024,West,Office Supplies,Standing Desk,11,598.44,"6,582.84",Nov,2024,4
+ORD-10217,11-02-2024,Central,Accessories,Mouse Pad XL,12,21.16,253.92,Feb,2024,1
+ORD-10212,06-08-2024,Central,Software,CRM License,13,314.07,"4,082.91",Aug,2024,3
+ORD-10344,28-01-2024,East,Electronics,USB-C Hub,3,44.74,134.22,Jan,2024,1
+ORD-10058,07-08-2024,South,Accessories,Screen Protector,2,14.84,29.68,Aug,2024,3
+ORD-10046,06-11-2024,East,Accessories,Laptop Bag,15,62.03,930.45,Nov,2024,4
+ORD-10430,09-05-2024,South,Electronics,Wireless Earbuds,19,95.93,"1,822.67",May,2024,2
+ORD-10351,17-11-2024,South,Networking,Ethernet Cable,11,19.56,215.16,Nov,2024,4
+ORD-10166,12-04-2024,North,Software,Antivirus Pro,17,59.57,"1,012.69",Apr,2024,2
+ORD-10221,05-02-2024,West,Electronics,Smart Watch,14,243.27,"3,405.78",Feb,2024,1
+ORD-10137,23-08-2024,East,Electronics,USB-C Hub,4,44.39,177.56,Aug,2024,3
+ORD-10125,07-03-2024,Central,Electronics,Webcam HD,18,81.71,"1,470.78",Mar,2024,1
+ORD-10127,25-02-2024,East,Networking,Ethernet Cable,4,19.16,76.64,Feb,2024,1
+ORD-10448,04-12-2024,East,Electronics,Wireless Earbuds,15,92.65,"1,389.75",Dec,2024,4
+ORD-10316,20-07-2024,East,Software,Project Mgmt Tool,9,146.77,"1,320.93",Jul,2024,3
+ORD-10101,26-08-2024,East,Networking,Network Switch,3,253.05,759.15,Aug,2024,3
+ORD-10417,20-10-2024,Central,Software,CRM License,11,307.61,"3,383.71",Oct,2024,4
+ORD-10334,03-06-2024,East,Office Supplies,Standing Desk,14,586.76,"8,214.64",Jun,2024,2
+ORD-10203,12-12-2024,Central,Accessories,Laptop Bag,12,64.50,774.00,Dec,2024,4
+ORD-10491,21-11-2024,Central,Accessories,Mouse Pad XL,18,21.92,394.56,Nov,2024,4
+ORD-10102,08-05-2024,West,Software,Design Suite,13,214.52,"2,788.76",May,2024,2
+ORD-10287,25-05-2024,East,Networking,Power Strip Pro,5,50.71,253.55,May,2024,2
+ORD-10247,16-04-2024,Central,Office Supplies,Desk Organizer,3,28.85,86.55,Apr,2024,2
+ORD-10070,30-08-2024,Central,Networking,Ethernet Cable,14,19.79,277.06,Aug,2024,3
+ORD-10391,26-03-2024,North,Office Supplies,Ergonomic Chair,6,385.26,"2,311.56",Mar,2024,1
+ORD-10067,25-08-2024,Central,Networking,VPN Device,11,132.65,"1,459.15",Aug,2024,3
+ORD-10440,04-09-2024,East,Electronics,Wireless Earbuds,16,87.64,"1,402.24",Sep,2024,3
+ORD-10397,30-04-2024,North,Accessories,Laptop Bag,19,60.02,"1,140.38",Apr,2024,2
+ORD-10466,21-10-2024,North,Software,Design Suite,14,204.16,"2,858.24",Oct,2024,4
+ORD-10257,13-11-2024,West,Software,Project Mgmt Tool,11,151.17,"1,662.87",Nov,2024,4
+ORD-10413,08-05-2024,South,Networking,VPN Device,8,151.05,"1,208.40",May,2024,2
+ORD-10044,02-06-2024,Central,Software,Project Mgmt Tool,11,150.54,"1,655.94",Jun,2024,2
+ORD-10502,08-06-2024,East,Office Supplies,Ergonomic Chair,18,410.23,"7,384.14",Jun,2024,2
+ORD-10281,28-10-2024,East,Networking,VPN Device,6,144.90,869.40,Oct,2024,4
+ORD-10437,19-01-2024,Central,Software,Cloud Backup,18,101.06,"1,819.08",Jan,2024,1
+ORD-10382,11-01-2024,North,Electronics,USB-C Hub,15,45.32,679.80,Jan,2024,1
+ORD-10503,07-12-2024,South,Electronics,Wireless Earbuds,14,88.88,"1,244.32",Dec,2024,4
+ORD-10244,11-02-2024,North,Electronics,USB-C Hub,13,45.30,588.90,Feb,2024,1
+ORD-10043,09-12-2024,South,Software,Project Mgmt Tool,3,162.76,488.28,Dec,2024,4
+ORD-10173,13-12-2024,West,Software,Antivirus Pro,15,62.80,942.00,Dec,2024,4
+ORD-10068,23-06-2024,East,Networking,Ethernet Cable,18,17.13,308.34,Jun,2024,2
+ORD-10076,04-06-2024,North,Office Supplies,Ergonomic Chair,18,424.80,"7,646.40",Jun,2024,2
+ORD-10434,23-04-2024,West,Software,Antivirus Pro,5,62.06,310.30,Apr,2024,2
+ORD-10403,22-06-2024,North,Accessories,Phone Case,19,18.40,349.60,Jun,2024,2
+ORD-10222,10-07-2024,West,Accessories,Laptop Bag,13,56.76,737.88,Jul,2024,3
+ORD-10439,10-11-2024,South,Networking,Network Switch,15,242.50,"3,637.50",Nov,2024,4
+ORD-10047,03-12-2024,North,Software,Cloud Backup,20,99.03,"1,980.60",Dec,2024,4
+ORD-10259,21-10-2024,South,Software,Project Mgmt Tool,9,159.80,"1,438.20",Oct,2024,4
+ORD-10295,07-08-2024,East,Office Supplies,Standing Desk,9,574.63,"5,171.67",Aug,2024,3
+ORD-10482,03-03-2024,East,Networking,Network Switch,19,258.06,"4,903.14",Mar,2024,1
+ORD-10386,30-04-2024,North,Electronics,Mechanical Keyboard,3,140.10,420.30,Apr,2024,2
+ORD-10229,13-12-2024,West,Networking,VPN Device,2,152.32,304.64,Dec,2024,4
+ORD-10202,27-05-2024,South,Accessories,Cable Kit,16,25.06,400.96,May,2024,2
+ORD-10478,17-12-2024,South,Electronics,Mechanical Keyboard,9,138.11,"1,242.99",Dec,2024,4
+ORD-10345,28-03-2024,East,Electronics,USB-C Hub,4,44.83,179.32,Mar,2024,1
+ORD-10026,07-04-2024,East,Office Supplies,Ergonomic Chair,19,423.08,"8,038.52",Apr,2024,2
+ORD-10079,28-08-2024,East,Electronics,Wireless Earbuds,10,93.99,939.90,Aug,2024,3
+ORD-10114,26-11-2024,East,Electronics,USB-C Hub,9,44.03,396.27,Nov,2024,4
+ORD-10358,21-09-2024,East,Electronics,Webcam HD,6,75.83,454.98,Sep,2024,3
+ORD-10258,04-11-2024,South,Accessories,Cable Kit,6,27.37,164.22,Nov,2024,4
+ORD-10168,16-07-2024,East,Office Supplies,Desk Organizer,16,29.15,466.40,Jul,2024,3
+ORD-10077,18-08-2024,West,Software,Cloud Backup,14,98.58,"1,380.12",Aug,2024,3
+ORD-10277,15-08-2024,West,Office Supplies,Ergonomic Chair,19,380.90,"7,237.10",Aug,2024,3
+ORD-10164,25-06-2024,South,Electronics,Webcam HD,11,76.63,842.93,Jun,2024,2
+ORD-10022,28-01-2024,North,Electronics,USB-C Hub,11,48.15,529.65,Jan,2024,1
+ORD-10269,22-03-2024,East,Networking,VPN Device,15,136.88,"2,053.20",Mar,2024,1
+ORD-10157,14-01-2024,West,Electronics,USB-C Hub,17,45.27,769.59,Jan,2024,1
+ORD-10028,18-10-2024,South,Networking,Power Strip Pro,2,51.10,102.20,Oct,2024,4
+ORD-10324,19-04-2024,South,Software,Antivirus Pro,15,63.87,958.05,Apr,2024,2
+ORD-10399,22-11-2024,East,Networking,Power Strip Pro,7,51.36,359.52,Nov,2024,4
+ORD-10325,29-07-2024,Central,Accessories,Phone Case,3,18.85,56.55,Jul,2024,3
+ORD-10006,26-12-2024,North,Electronics,Mechanical Keyboard,8,137.51,"1,100.08",Dec,2024,4
+ORD-10309,10-12-2024,North,Office Supplies,Standing Desk,17,602.37,"10,240.29",Dec,2024,4
+ORD-10435,06-09-2024,Central,Electronics,Wireless Earbuds,20,85.64,"1,712.80",Sep,2024,3
+ORD-10335,21-12-2024,Central,Software,Design Suite,19,213.36,"4,053.84",Dec,2024,4
+ORD-10383,18-11-2024,North,Software,Project Mgmt Tool,4,156.36,625.44,Nov,2024,4
+ORD-10471,07-04-2024,West,Office Supplies,Standing Desk,8,593.42,"4,747.36",Apr,2024,2
+ORD-10446,29-07-2024,North,Office Supplies,Ergonomic Chair,5,413.37,"2,066.85",Jul,2024,3
+ORD-10062,08-06-2024,North,Networking,WiFi Router,10,185.51,"1,855.10",Jun,2024,2
+ORD-10445,04-11-2024,North,Office Supplies,Desk Organizer,11,30.68,337.48,Nov,2024,4
+ORD-10214,20-12-2024,South,Electronics,Mechanical Keyboard,4,131.56,526.24,Dec,2024,4
+ORD-10223,01-03-2024,South,Networking,VPN Device,17,134.71,"2,290.07",Mar,2024,1
+ORD-10419,12-11-2024,Central,Accessories,Mouse Pad XL,1,21.28,21.28,Nov,2024,4
+ORD-10451,06-11-2024,North,Office Supplies,Desk Organizer,20,30.16,603.20,Nov,2024,4
+ORD-10179,02-09-2024,Central,Accessories,Laptop Bag,19,56.70,"1,077.30",Sep,2024,3
+ORD-10172,12-08-2024,North,Office Supplies,Ergonomic Chair,8,425.64,"3,405.12",Aug,2024,3
+ORD-10395,26-06-2024,West,Office Supplies,Whiteboard,20,85.28,"1,705.60",Jun,2024,2
+ORD-10029,14-04-2024,East,Office Supplies,Monitor Stand,13,66.90,869.70,Apr,2024,2
+ORD-10400,20-08-2024,East,Networking,Power Strip Pro,20,50.03,"1,000.60",Aug,2024,3
+ORD-10041,15-05-2024,North,Electronics,Webcam HD,14,79.15,"1,108.10",May,2024,2
+ORD-10196,09-01-2024,East,Software,CRM License,14,310.23,"4,343.22",Jan,2024,1
+ORD-10486,18-08-2024,West,Office Supplies,Standing Desk,1,531.85,531.85,Aug,2024,3
+ORD-10414,04-11-2024,South,Office Supplies,Monitor Stand,15,67.39,"1,010.85",Nov,2024,4
+ORD-10375,31-03-2024,East,Electronics,Laptop Pro,15,"1,188.24","17,823.60",Mar,2024,1
+ORD-10020,18-06-2024,North,Networking,Network Switch,9,261.54,"2,353.86",Jun,2024,2
+ORD-10505,22-06-2024,North,Electronics,Smart Watch,5,262.74,"1,313.70",Jun,2024,2
+ORD-10329,29-01-2024,South,Networking,VPN Device,12,151.55,"1,818.60",Jan,2024,1
+ORD-10305,25-09-2024,North,Software,Cloud Backup,3,101.42,304.26,Sep,2024,3
+ORD-10465,25-05-2024,Central,Networking,Ethernet Cable,12,19.70,236.40,May,2024,2
+ORD-10420,04-05-2024,North,Software,Project Mgmt Tool,4,150.17,600.68,May,2024,2
+ORD-10296,19-12-2024,North,Software,Design Suite,17,207.17,"3,521.89",Dec,2024,4
+ORD-10360,20-05-2024,East,Accessories,Mouse Pad XL,13,23.00,299.00,May,2024,2
+ORD-10354,25-06-2024,West,Software,Project Mgmt Tool,16,154.33,"2,469.28",Jun,2024,2
+ORD-10461,08-07-2024,North,Networking,WiFi Router,13,195.04,"2,535.52",Jul,2024,3
+ORD-10423,15-04-2024,Central,Accessories,Phone Case,5,18.12,90.60,Apr,2024,2
+ORD-10250,26-04-2024,East,Networking,VPN Device,14,135.92,"1,902.88",Apr,2024,2
+ORD-10089,25-04-2024,North,Accessories,Phone Case,5,19.47,97.35,Apr,2024,2
+ORD-10248,03-10-2024,East,Accessories,Screen Protector,3,15.38,46.14,Oct,2024,4
+ORD-10406,07-11-2024,South,Software,Project Mgmt Tool,11,163.24,"1,795.64",Nov,2024,4
+ORD-10167,26-05-2024,East,Electronics,Mechanical Keyboard,11,127.84,"1,406.24",May,2024,2
+ORD-10371,03-04-2024,East,Electronics,Wireless Earbuds,12,87.53,"1,050.36",Apr,2024,2
+ORD-10040,28-06-2024,Central,Accessories,Mouse Pad XL,11,24.00,264.00,Jun,2024,2
+ORD-10512,24-11-2024,West,Accessories,Mouse Pad XL,20,23.21,464.20,Nov,2024,4
+ORD-10112,03-10-2024,West,Networking,Network Switch,14,261.01,"3,654.14",Oct,2024,4
+ORD-10470,24-06-2024,North,Networking,Network Switch,16,248.27,"3,972.32",Jun,2024,2
+ORD-10292,15-07-2024,North,Electronics,Laptop Pro,11,"1,205.16","13,256.76",Jul,2024,3
+ORD-10205,11-11-2024,Central,Office Supplies,Standing Desk,2,576.71,"1,153.42",Nov,2024,4
+ORD-10293,24-11-2024,South,Electronics,Webcam HD,19,75.15,"1,427.85",Nov,2024,4
+ORD-10048,11-04-2024,South,Electronics,Laptop Pro,8,"1,316.01","10,528.08",Apr,2024,2
+ORD-10154,19-10-2024,West,Accessories,Cable Kit,13,25.64,333.32,Oct,2024,4
+ORD-10416,20-03-2024,North,Office Supplies,Monitor Stand,20,66.08,"1,321.60",Mar,2024,1
+ORD-10132,05-09-2024,Central,Accessories,Laptop Bag,9,57.96,521.64,Sep,2024,3
+ORD-10120,23-09-2024,East,Accessories,Phone Case,2,20.90,41.80,Sep,2024,3
+ORD-10128,14-11-2024,Central,Networking,WiFi Router,20,195.00,"3,900.00",Nov,2024,4
+ORD-10299,09-01-2024,Central,Electronics,Laptop Pro,9,"1,177.85","10,600.65",Jan,2024,1
+ORD-10456,01-12-2024,South,Software,Project Mgmt Tool,12,143.93,"1,727.16",Dec,2024,4
+ORD-10376,15-02-2024,South,Networking,VPN Device,14,140.46,"1,966.44",Feb,2024,1
+ORD-10272,23-11-2024,East,Networking,VPN Device,20,140.23,"2,804.60",Nov,2024,4
+ORD-10142,07-02-2024,East,Accessories,Laptop Bag,2,56.55,113.10,Feb,2024,1
+ORD-10160,26-02-2024,East,Office Supplies,Monitor Stand,4,66.04,264.16,Feb,2024,1
+ORD-10365,15-11-2024,West,Networking,WiFi Router,1,183.78,183.78,Nov,2024,4
+ORD-10472,20-03-2024,North,Electronics,Laptop Pro,16,"1,249.45","19,991.20",Mar,2024,1
+ORD-10039,28-06-2024,East,Office Supplies,Standing Desk,1,575.90,575.90,Jun,2024,2
+ORD-10097,06-09-2024,Central,Electronics,Webcam HD,3,77.83,233.49,Sep,2024,3
+ORD-10159,17-08-2024,Central,Electronics,Laptop Pro,1,"1,185.08","1,185.08",Aug,2024,3
